@@ -1,6 +1,6 @@
 ##Three-way sorter is a R Shiny gadget that allows users to upload a file containing items 
 ##to be sorted (each in a line). Then all items appear in the left box, and the users can
-##select items and distribute them among three boxes, and them submit it by clicking "Click to sort"
+##select items and distribute them among three boxes, and then submit it by clicking "Click to sort"
 ##button to sort the items.  
 
 Usage:
