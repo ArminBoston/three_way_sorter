@@ -1,0 +1,11 @@
+##Three-way sorter is a R Shiny gadget that allows users to upload a file containing items 
+##to be sorted (each in a line). Then all items appear in the left box, and the users can
+##select items and distribute them among three boxes, and them submit it by clicking "Click to sort"
+##button to sort the items.  
+
+Usage:
+In bash,
+
+R -e 'shiny::runApp("app.R")'
+
+Then, copy the url to a browser, e.g., http://127.0.0.1:6864

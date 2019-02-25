@@ -1,0 +1,27 @@
+/*Control background color of CHOOSER gadget*/
+.chooser {background-color:silver; height:450px; width:960px; line-height:0}
+
+/*Control behavior of three blocks--left container, center arrows, right container.*/
+.chooser-left-container {display: inline-block; height:400px; vertical-align:middle; line-height:normal; background-color: gray;}
+.chooser-center-container {display: inline-block; height:400px; margin:auto; vertical-align:middle; line-height:normal; background-color: silver;}
+.chooser-right-container {display: inline-block; height:400px; vertical-align:middle; line-height:normal; background-color: silver;}
+
+/*Control arrows box pisition, color*/
+.arrowsBox {display:inline-block; vertical-align:middle; height: 50%; margin-top: auto; margin-bottom: auto;}
+
+/*Control arrows position*/
+#arrows1 {background-color: silver; vertical-align: middle;padding-top: 85px; padding-left: 6px;}
+#arrows2 {background-color: silver; vertical-align: middle;padding-top: 95px; padding-left: 6px;}
+
+/*Control right boxes color, position*/
+#rightBox1 {background-color: gray; vertical-align:middle; padding-top: 2px;}
+#rightBox2 {background-color: gray; vertical-align:middle; padding-top: 2px;}
+
+/*Control color of select contents*/
+.left {height:0; width:450px; background-color: silver; color: black}
+.right1 {height:0; width:450px; background-color: silver; color: green}
+.right2 {height:0; width:450px; background-color: silver; color: green}
+
+/*Control label's position, color*/
+h3 {position:relative; left: 5px; color: yellow;}
+h4 {position:relative; left: 5px; color: yellow;}
